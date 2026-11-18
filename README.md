@@ -1,5 +1,7 @@
 I build software end to end, from the domain model to the servers it runs on.
 
+More about me and my work at **[jorgecostamacia.github.io](https://jorgecostamacia.github.io)**.
+
 **Design** · DDD, hexagonal / clean architecture, CQRS, event-driven systems, SOLID, TDD with xUnit and Testcontainers  
 **Backend** · .NET / C#, EF Core, PHP / Symfony, messaging (Kafka, RabbitMQ)  
 **Identity** · Keycloak, OAuth 2.0 / OpenID Connect, JWT  
